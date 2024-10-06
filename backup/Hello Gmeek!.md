@@ -1,8 +1,9 @@
 ``` c#
     using System;
-        namespace HelloWorld{
-                class Program{
-                    Console.WriteLine("Hello Gmeek!");
-                }
+
+    namespace HelloWorld{
+        class Program{
+            Console.WriteLine("Hello Gmeek!");
         }
+    }
 ```
