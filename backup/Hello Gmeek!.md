@@ -1,7 +1,7 @@
 ``` c#
     using System;
 
-    namespace HelloWorld{
+    namespace HelloGmeek{
         class Program{
             Console.WriteLine("Hello Gmeek!");
         }
